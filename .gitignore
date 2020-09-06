@@ -1,0 +1,6 @@
+.terraform
+.chef
+/**/*.log
+/**/plan.out
+.DS_Store
+
